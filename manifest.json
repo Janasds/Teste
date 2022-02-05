@@ -525,34 +525,34 @@
   },
   "files": {
     "_book/_main.epub": {
-      "checksum": "3aa07a43e4e76003b89912d44b701d80"
+      "checksum": "624541c657b7d6bb86a04560d94bf1bd"
     },
     "_book/_main.pdf": {
-      "checksum": "01ca7e80e9102cd20087a21ea7314b59"
+      "checksum": "b51dc2bcf69a24b2a1ecd467759dc518"
     },
     "_book/_main.tex": {
-      "checksum": "165a26432982a605056291134a0580bc"
+      "checksum": "c0ecc2f1f90da0cb0363c089803272c5"
     },
     "_book/_main_files/figure-html/nice-fig-1.png": {
       "checksum": "9aa84dbd5bafcad02bd603df1fae9401"
     },
     "_book/404.html": {
-      "checksum": "e6d04fac077640103f4f5d7a5ec9fec8"
+      "checksum": "2a9c6a6a4ce175d9e40b1aec68659542"
     },
     "_book/blocks.html": {
-      "checksum": "96ad2615f9ede2dbf9c8ba81f688df49"
+      "checksum": "8efa27719483d353c18453491752596e"
     },
     "_book/cross.html": {
-      "checksum": "38cc0af86e0f86730ad3c2e5387f4c62"
+      "checksum": "0f3de8e32d1ab2863f01ead35fb8ff49"
     },
     "_book/footnotes-and-citations.html": {
-      "checksum": "4105ae5ac4618b8ee54a8f20179e8000"
+      "checksum": "ddb5e415a1848878ee08e1d399dcb89f"
     },
     "_book/hello-bookdown.html": {
-      "checksum": "034df5f723ee7ab07261bee522c47b71"
+      "checksum": "49360c0e692207d42d416c9e83da26dc"
     },
     "_book/index.html": {
-      "checksum": "50c9b54df8eef881db63499edc511c0e"
+      "checksum": "a6cca6c25b4c816f64bceb186a994e11"
     },
     "_book/libs/anchor-sections-1.0.1/anchor-sections.css": {
       "checksum": "f2ce152d9297a0935b5fc4e084a44da7"
@@ -615,22 +615,22 @@
       "checksum": "8fb8fee4fcc3cc86ff6c724154c49c42"
     },
     "_book/manifest.json": {
-      "checksum": "aa04150e9ad1fb8809cbce5b1199d7a7"
+      "checksum": "3b282c3c2b63feb0a9f980ff42e218c8"
     },
     "_book/parts.html": {
-      "checksum": "c1948cc5ecbb3935e13fa7114aced770"
+      "checksum": "32fe8ffeee7e551cd79fd9e9dd8afe99"
     },
     "_book/reference-keys.txt": {
       "checksum": "719a5518ec295e61d969b3b73658c79e"
     },
     "_book/references.html": {
-      "checksum": "87d68ed082268b933d6f167de86e9053"
+      "checksum": "2a0156b65ceaf6446841a3e1eed69724"
     },
     "_book/search_index.json": {
-      "checksum": "45317aa0f93e99cd95335d1a375dad45"
+      "checksum": "0392ad102f22313b8d41ce7aeda7113d"
     },
     "_book/sharing-your-book.html": {
-      "checksum": "8b90a1b53323361e9860b655ead8763b"
+      "checksum": "8a5260d263d46b6c1cec678a0aa4337e"
     },
     "_book/style.css": {
       "checksum": "19f0b33dc27d4f748874d2cde5cea5bc"
@@ -642,7 +642,7 @@
       "checksum": "9aa84dbd5bafcad02bd603df1fae9401"
     },
     "_bookdown_files/_main_files/figure-latex/nice-fig-1.pdf": {
-      "checksum": "59f82c0b09d03dfcb209804e0f8027d5"
+      "checksum": "68d3433d9d24d632bcc6adb4f7c81d31"
     },
     "_output.yml": {
       "checksum": "d1b122237aee06b2d57b9b8dc303ad44"
@@ -669,31 +669,31 @@
       "checksum": "3b5940f4dbd9fb829fe666d88955c650"
     },
     "404.html": {
-      "checksum": "86300026d8c02736a0b03ecbde921de5"
+      "checksum": "edf5999db15da037c66aeb186d0e985c"
     },
     "about.html": {
-      "checksum": "a7f456932c176b3e4c6df68e650e5d88"
+      "checksum": "bc8628bc8b1d01077cab955ba09f0085"
     },
     "blocks.html": {
-      "checksum": "87143116d97fc086056a7820d709e97b"
+      "checksum": "26beec63515da7642e8ccc4017636136"
     },
     "book.bib": {
       "checksum": "da9d9311a3433b995b206816a36a529d"
     },
     "cross.html": {
-      "checksum": "203c8e2a0f1b55243892f9f51c68f967"
+      "checksum": "3f9872d8e319e0b9fb24aaa3225c1787"
     },
-    "filea9051c466d6.html": {
-      "checksum": "6912a59e7899f08e4e695279e364bba1"
+    "filea9072024b7c.html": {
+      "checksum": "b415b88b2de070a110c22e313f662812"
     },
     "footnotes-and-citations.html": {
-      "checksum": "c2e9d177f6da8f2534c4497584f7a3ae"
+      "checksum": "0b223806debe859d6b98a9b38b352f26"
     },
     "hello-bookdown.html": {
-      "checksum": "1cd6e15a998b9a7256f6bf81a4828cb7"
+      "checksum": "5cada78c875195541896f21f2c68f961"
     },
     "index.Rmd": {
-      "checksum": "0a1fe942a760d1585573179e092ec54f"
+      "checksum": "39fbce86ed9e08f827fdfaa04231c64c"
     },
     "libs/anchor-sections-1.0.1/anchor-sections.css": {
       "checksum": "f2ce152d9297a0935b5fc4e084a44da7"
@@ -768,7 +768,7 @@
       "checksum": "cebb76696c6aabbb61f0432d619e6d7b"
     },
     "parts.html": {
-      "checksum": "3df4d58b0f78990becb7c72d114f132b"
+      "checksum": "b499ff8035ee9eb091ac16f63ddec5f2"
     },
     "preamble.tex": {
       "checksum": "1fd1a3c59e951f9f95b6b39785d600ff"
@@ -777,7 +777,7 @@
       "checksum": "c21d220bab1c9744affb5b383f7e5a38"
     },
     "sharing-your-book.html": {
-      "checksum": "5b1b33c2fd1d349882113c827611f41a"
+      "checksum": "5452ad29c46c0ec9a554aeb9b273cd1c"
     },
     "style.css": {
       "checksum": "19f0b33dc27d4f748874d2cde5cea5bc"

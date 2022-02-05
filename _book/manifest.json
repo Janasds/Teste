@@ -12,34 +12,34 @@
   "packages": null,
   "files": {
     "_main.epub": {
-      "checksum": "3aa07a43e4e76003b89912d44b701d80"
+      "checksum": "624541c657b7d6bb86a04560d94bf1bd"
     },
     "_main.pdf": {
-      "checksum": "01ca7e80e9102cd20087a21ea7314b59"
+      "checksum": "b51dc2bcf69a24b2a1ecd467759dc518"
     },
     "_main.tex": {
-      "checksum": "165a26432982a605056291134a0580bc"
+      "checksum": "c0ecc2f1f90da0cb0363c089803272c5"
     },
     "_main_files/figure-html/nice-fig-1.png": {
       "checksum": "9aa84dbd5bafcad02bd603df1fae9401"
     },
     "404.html": {
-      "checksum": "e6d04fac077640103f4f5d7a5ec9fec8"
+      "checksum": "2a9c6a6a4ce175d9e40b1aec68659542"
     },
     "blocks.html": {
-      "checksum": "96ad2615f9ede2dbf9c8ba81f688df49"
+      "checksum": "8efa27719483d353c18453491752596e"
     },
     "cross.html": {
-      "checksum": "38cc0af86e0f86730ad3c2e5387f4c62"
+      "checksum": "0f3de8e32d1ab2863f01ead35fb8ff49"
     },
     "footnotes-and-citations.html": {
-      "checksum": "4105ae5ac4618b8ee54a8f20179e8000"
+      "checksum": "ddb5e415a1848878ee08e1d399dcb89f"
     },
     "hello-bookdown.html": {
-      "checksum": "034df5f723ee7ab07261bee522c47b71"
+      "checksum": "49360c0e692207d42d416c9e83da26dc"
     },
     "index.html": {
-      "checksum": "50c9b54df8eef881db63499edc511c0e"
+      "checksum": "a6cca6c25b4c816f64bceb186a994e11"
     },
     "libs/anchor-sections-1.0.1/anchor-sections.css": {
       "checksum": "f2ce152d9297a0935b5fc4e084a44da7"
@@ -102,19 +102,19 @@
       "checksum": "8fb8fee4fcc3cc86ff6c724154c49c42"
     },
     "parts.html": {
-      "checksum": "c1948cc5ecbb3935e13fa7114aced770"
+      "checksum": "32fe8ffeee7e551cd79fd9e9dd8afe99"
     },
     "reference-keys.txt": {
       "checksum": "719a5518ec295e61d969b3b73658c79e"
     },
     "references.html": {
-      "checksum": "87d68ed082268b933d6f167de86e9053"
+      "checksum": "2a0156b65ceaf6446841a3e1eed69724"
     },
     "search_index.json": {
-      "checksum": "45317aa0f93e99cd95335d1a375dad45"
+      "checksum": "0392ad102f22313b8d41ce7aeda7113d"
     },
     "sharing-your-book.html": {
-      "checksum": "8b90a1b53323361e9860b655ead8763b"
+      "checksum": "8a5260d263d46b6c1cec678a0aa4337e"
     },
     "style.css": {
       "checksum": "19f0b33dc27d4f748874d2cde5cea5bc"
