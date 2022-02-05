@@ -524,8 +524,122 @@
     }
   },
   "files": {
+    "_book/_main.epub": {
+      "checksum": "3aa07a43e4e76003b89912d44b701d80"
+    },
+    "_book/_main.pdf": {
+      "checksum": "01ca7e80e9102cd20087a21ea7314b59"
+    },
+    "_book/_main.tex": {
+      "checksum": "165a26432982a605056291134a0580bc"
+    },
+    "_book/_main_files/figure-html/nice-fig-1.png": {
+      "checksum": "9aa84dbd5bafcad02bd603df1fae9401"
+    },
+    "_book/404.html": {
+      "checksum": "e6d04fac077640103f4f5d7a5ec9fec8"
+    },
+    "_book/blocks.html": {
+      "checksum": "96ad2615f9ede2dbf9c8ba81f688df49"
+    },
+    "_book/cross.html": {
+      "checksum": "38cc0af86e0f86730ad3c2e5387f4c62"
+    },
+    "_book/footnotes-and-citations.html": {
+      "checksum": "4105ae5ac4618b8ee54a8f20179e8000"
+    },
+    "_book/hello-bookdown.html": {
+      "checksum": "034df5f723ee7ab07261bee522c47b71"
+    },
+    "_book/index.html": {
+      "checksum": "50c9b54df8eef881db63499edc511c0e"
+    },
+    "_book/libs/anchor-sections-1.0.1/anchor-sections.css": {
+      "checksum": "f2ce152d9297a0935b5fc4e084a44da7"
+    },
+    "_book/libs/anchor-sections-1.0.1/anchor-sections.js": {
+      "checksum": "769b825084a054ff4bfd95c56b516fb0"
+    },
+    "_book/libs/gitbook-2.6.7/css/fontawesome/fontawesome-webfont.ttf": {
+      "checksum": "b06871f281fee6b241d60582ae9369b9"
+    },
+    "_book/libs/gitbook-2.6.7/css/plugin-bookdown.css": {
+      "checksum": "511b32706d0828b46237a7cdebf52126"
+    },
+    "_book/libs/gitbook-2.6.7/css/plugin-clipboard.css": {
+      "checksum": "e4a3bdc1e3d5590f47cbac67976f3961"
+    },
+    "_book/libs/gitbook-2.6.7/css/plugin-fontsettings.css": {
+      "checksum": "ddba6e8649d659db2ca0e963ee4b76fb"
+    },
+    "_book/libs/gitbook-2.6.7/css/plugin-highlight.css": {
+      "checksum": "467fbe4b6b5a4b88fdd75c463f8626ec"
+    },
+    "_book/libs/gitbook-2.6.7/css/plugin-search.css": {
+      "checksum": "0d7a6bb6a50e00c7358cf61027f099f0"
+    },
+    "_book/libs/gitbook-2.6.7/css/plugin-table.css": {
+      "checksum": "8cb82f94ce1446fa4bafe7a3933e6c65"
+    },
+    "_book/libs/gitbook-2.6.7/css/style.css": {
+      "checksum": "be0c52de37f19e465d67f64de17bb539"
+    },
+    "_book/libs/gitbook-2.6.7/js/app.min.js": {
+      "checksum": "395a8093ce46450cabfaa545a0705a3b"
+    },
+    "_book/libs/gitbook-2.6.7/js/clipboard.min.js": {
+      "checksum": "be72101c8c16ba95fd8b69760d5ebc56"
+    },
+    "_book/libs/gitbook-2.6.7/js/jquery.highlight.js": {
+      "checksum": "999424d32e03b9857098d2c7f53928c2"
+    },
+    "_book/libs/gitbook-2.6.7/js/plugin-bookdown.js": {
+      "checksum": "36b5487b9c1020c0de1352b8f26b8a8e"
+    },
+    "_book/libs/gitbook-2.6.7/js/plugin-clipboard.js": {
+      "checksum": "a30f95fcd3fde10637ace1fb691b7475"
+    },
+    "_book/libs/gitbook-2.6.7/js/plugin-fontsettings.js": {
+      "checksum": "4f57689705fdfa3eabfb7b7b92614f33"
+    },
+    "_book/libs/gitbook-2.6.7/js/plugin-search.js": {
+      "checksum": "a906e04e1fc7aa9e057f3de4668f4a68"
+    },
+    "_book/libs/gitbook-2.6.7/js/plugin-sharing.js": {
+      "checksum": "e2b65328457b1e2b16c46a0fd4f2852c"
+    },
+    "_book/libs/header-attrs-2.11/header-attrs.js": {
+      "checksum": "9c32b58ed5fd8fe2efbd5bd7023cdef0"
+    },
+    "_book/libs/jquery-3.6.0/jquery-3.6.0.min.js": {
+      "checksum": "8fb8fee4fcc3cc86ff6c724154c49c42"
+    },
+    "_book/parts.html": {
+      "checksum": "c1948cc5ecbb3935e13fa7114aced770"
+    },
+    "_book/reference-keys.txt": {
+      "checksum": "719a5518ec295e61d969b3b73658c79e"
+    },
+    "_book/references.html": {
+      "checksum": "87d68ed082268b933d6f167de86e9053"
+    },
+    "_book/search_index.json": {
+      "checksum": "45317aa0f93e99cd95335d1a375dad45"
+    },
+    "_book/sharing-your-book.html": {
+      "checksum": "8b90a1b53323361e9860b655ead8763b"
+    },
+    "_book/style.css": {
+      "checksum": "19f0b33dc27d4f748874d2cde5cea5bc"
+    },
     "_bookdown.yml": {
       "checksum": "7b6ff690d0bd32226ca7a5bbb94f0ef5"
+    },
+    "_bookdown_files/_main_files/figure-html/nice-fig-1.png": {
+      "checksum": "9aa84dbd5bafcad02bd603df1fae9401"
+    },
+    "_bookdown_files/_main_files/figure-latex/nice-fig-1.pdf": {
+      "checksum": "59f82c0b09d03dfcb209804e0f8027d5"
     },
     "_output.yml": {
       "checksum": "d1b122237aee06b2d57b9b8dc303ad44"
@@ -552,25 +666,28 @@
       "checksum": "3b5940f4dbd9fb829fe666d88955c650"
     },
     "404.html": {
-      "checksum": "a153701ffa46fff1025c5db6aba76fb1"
+      "checksum": "0a1bcb58186bc0896c04a40e599bf5f8"
+    },
+    "about.html": {
+      "checksum": "753a58969c534ef95a5c0271ccafc254"
     },
     "blocks.html": {
-      "checksum": "91d5d218860bdf89f90e1036cbc4c834"
+      "checksum": "3a4e1f1affc870d2eea5363d160bb885"
     },
     "book.bib": {
       "checksum": "da9d9311a3433b995b206816a36a529d"
     },
     "cross.html": {
-      "checksum": "b38ac04aee7614a35a0e31212413dee6"
+      "checksum": "236da6b1597c5dac8df5edc3d0ab10a0"
     },
-    "file1a58a38f91.html": {
-      "checksum": "3287ee588aa00f68ebd95eaefc33fd3b"
+    "filea9026167856.html": {
+      "checksum": "5b0e6379627c3f2c3a1f5e8845ac9ac1"
     },
     "footnotes-and-citations.html": {
-      "checksum": "07555a3b75839cf1f0db1c2127eff7af"
+      "checksum": "9f978c4f8e26bd17c60e5906bc6f0ea6"
     },
     "hello-bookdown.html": {
-      "checksum": "dee4fcd9a65741a793f2fc8a7c6e0ae6"
+      "checksum": "6e5c9c6616f6d6f5ed00125911e3d9bb"
     },
     "index.Rmd": {
       "checksum": "0a1fe942a760d1585573179e092ec54f"
@@ -644,8 +761,11 @@
     "libs/jquery-3.6.0/jquery-3.6.0.min.map": {
       "checksum": "6efc5d663aaacac2024153fa0d4bafcd"
     },
+    "packages.bib": {
+      "checksum": "cebb76696c6aabbb61f0432d619e6d7b"
+    },
     "parts.html": {
-      "checksum": "ebf582056ffa20c60db184432bac3538"
+      "checksum": "e0dbe65c7a7654dcfc8aa913878cf6ca"
     },
     "preamble.tex": {
       "checksum": "1fd1a3c59e951f9f95b6b39785d600ff"
@@ -654,7 +774,7 @@
       "checksum": "c21d220bab1c9744affb5b383f7e5a38"
     },
     "sharing-your-book.html": {
-      "checksum": "0e703a08681eb75f8c873d5cb6a59aa9"
+      "checksum": "6e6b57e50160b42027ff0756a7392fcf"
     },
     "style.css": {
       "checksum": "19f0b33dc27d4f748874d2cde5cea5bc"
