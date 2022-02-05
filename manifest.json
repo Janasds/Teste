@@ -614,6 +614,9 @@
     "_book/libs/jquery-3.6.0/jquery-3.6.0.min.js": {
       "checksum": "8fb8fee4fcc3cc86ff6c724154c49c42"
     },
+    "_book/manifest.json": {
+      "checksum": "aa04150e9ad1fb8809cbce5b1199d7a7"
+    },
     "_book/parts.html": {
       "checksum": "c1948cc5ecbb3935e13fa7114aced770"
     },
@@ -666,28 +669,28 @@
       "checksum": "3b5940f4dbd9fb829fe666d88955c650"
     },
     "404.html": {
-      "checksum": "0a1bcb58186bc0896c04a40e599bf5f8"
+      "checksum": "86300026d8c02736a0b03ecbde921de5"
     },
     "about.html": {
-      "checksum": "753a58969c534ef95a5c0271ccafc254"
+      "checksum": "a7f456932c176b3e4c6df68e650e5d88"
     },
     "blocks.html": {
-      "checksum": "3a4e1f1affc870d2eea5363d160bb885"
+      "checksum": "87143116d97fc086056a7820d709e97b"
     },
     "book.bib": {
       "checksum": "da9d9311a3433b995b206816a36a529d"
     },
     "cross.html": {
-      "checksum": "236da6b1597c5dac8df5edc3d0ab10a0"
+      "checksum": "203c8e2a0f1b55243892f9f51c68f967"
     },
-    "filea9026167856.html": {
-      "checksum": "5b0e6379627c3f2c3a1f5e8845ac9ac1"
+    "filea9051c466d6.html": {
+      "checksum": "6912a59e7899f08e4e695279e364bba1"
     },
     "footnotes-and-citations.html": {
-      "checksum": "9f978c4f8e26bd17c60e5906bc6f0ea6"
+      "checksum": "c2e9d177f6da8f2534c4497584f7a3ae"
     },
     "hello-bookdown.html": {
-      "checksum": "6e5c9c6616f6d6f5ed00125911e3d9bb"
+      "checksum": "1cd6e15a998b9a7256f6bf81a4828cb7"
     },
     "index.Rmd": {
       "checksum": "0a1fe942a760d1585573179e092ec54f"
@@ -765,7 +768,7 @@
       "checksum": "cebb76696c6aabbb61f0432d619e6d7b"
     },
     "parts.html": {
-      "checksum": "e0dbe65c7a7654dcfc8aa913878cf6ca"
+      "checksum": "3df4d58b0f78990becb7c72d114f132b"
     },
     "preamble.tex": {
       "checksum": "1fd1a3c59e951f9f95b6b39785d600ff"
@@ -774,7 +777,7 @@
       "checksum": "c21d220bab1c9744affb5b383f7e5a38"
     },
     "sharing-your-book.html": {
-      "checksum": "6e6b57e50160b42027ff0756a7392fcf"
+      "checksum": "5b1b33c2fd1d349882113c827611f41a"
     },
     "style.css": {
       "checksum": "19f0b33dc27d4f748874d2cde5cea5bc"
