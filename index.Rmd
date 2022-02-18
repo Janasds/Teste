@@ -1,5 +1,5 @@
 --- 
-title: "Exemplo Livro Git (05/02/2022)"
+title: "Exemplo Livro Git (18/02/2022)"
 author: "John Doe"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
